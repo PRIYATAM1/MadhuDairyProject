@@ -1,0 +1,1 @@
+We can use parameter as a event listener(As Method ) by using arrow function.
